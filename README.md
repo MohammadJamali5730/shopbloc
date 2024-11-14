@@ -1,6 +1,7 @@
 # blocshop
 
-A new Flutter project.
+shopapp with bloc 
+
 
 ## Getting Started
 
