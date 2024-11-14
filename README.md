@@ -1,7 +1,6 @@
 # blocshop
 
-shopapp with bloc 
-
+The ShopApp has been created using the BLoC architecture. It includes features such as: filtered pricing with a range slider, adding products to the inventory, and removing products. 
 
 ## Getting Started
 
